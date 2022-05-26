@@ -4,7 +4,7 @@ I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for
 - 🌱 I’m learning Python and JavaScript, 
 - 💪 I have some experience with SQL, HTML and CSS
 - 💬 Ask me about some basic algorythms, I'd love to help
-- ⚡ Fun fact: I'm proficient in googling and problem-solving... and problem-making 
+- ⚡ Fun fact: I'm proficient in googling and problem-solving... and problem-making 🐵
 - 📫 How to reach me: In the future I'll update this...
 - ⏰ When I have the time I'll add some more, that's it for now...
 
