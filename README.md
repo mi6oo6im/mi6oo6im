@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software developer
+I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software engeneer
 - 🔭 I’m currently working on my development
 - 🌱 I’m learning Python and JavaScript, 
 - 💪 I have some experience with SQL, HTML and CSS
