@@ -1,11 +1,12 @@
 ### Hi there 👋
 I'm Misho and I've just decided to take a U-turn in my carrear and pitch for a software developer
 - 🔭 I’m currently working on my development
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and JavaScript, 
+- 💪 I have a decent experience with SQL, HTML and CSS
 - 💬 Ask me about some basic algorythms, I'd love to help
-- ⚡ Fun fact: I'm proficient in googling and problem-solving and problem-making 
+- ⚡ Fun fact: I'm proficient in googling and problem-solving... and problem-making 
 - 📫 How to reach me: In the future I'll update this...
-- When I have the time I'll add some more, that's it for now...
+- ⏰ When I have the time I'll add some more, that's it for now...
 
 <!--
 **mi6oo6im/mi6oo6im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
