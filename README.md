@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Misho and I've just decided to take a U-turn in my carrear and pitch for a software developer
+I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software developer
 - 🔭 I’m currently working on my development
 - 🌱 I’m currently learning Python and JavaScript, 
 - 💪 I have a decent experience with SQL, HTML and CSS
