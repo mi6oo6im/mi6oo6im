@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Misho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi6oo6im&count_private=true)
+![Misho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi6oo6im&count_private=false)
