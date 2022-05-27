@@ -5,7 +5,7 @@ I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for
 - 💪 I have some experience with SQL, HTML and CSS
 - 💬 Ask me about some basic algorythms, I'd love to help
 - ⚡ Fun fact: I'm proficient in googling and problem-solving... and problem-making 🐵
-- 📫 How to reach me: [LinkedIn]<https://www.linkedin.com/in/mihail-istiliyanov-95a28049/>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihail-istiliyanov-95a28049/)
 - ⏰ When I have the time I'll add some more, that's it for now...
 
 <!--
