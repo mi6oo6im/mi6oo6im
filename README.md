@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mi6oo6im" alt="Misho's github stats" /></a> | <a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi6oo6im" /></a> |
+<a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mi6oo6im" alt="Misho's github stats" /></a> | <a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi6oo6im&layout=compact" /></a> |
 | ------------- | ------------- |
