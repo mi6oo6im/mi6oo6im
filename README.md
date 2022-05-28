@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Misho's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi6oo6im&count_private=false)
+<a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mi6oo6im&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Misho's github stats" /></a> | <a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi6oo6im&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
