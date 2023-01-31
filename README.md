@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software engineer
-- 🔭 I’m currently working on my development
+- 💻 I’m currently working on my development
 - 🌱 I’m learning Python and JavaScript
 - 💪 I have some experience with SQL, HTML and CSS
 - 💬 Ask me about some basic algorythms, I'd love to help
