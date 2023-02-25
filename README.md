@@ -23,5 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mi6oo6im&count_private=false" alt="Misho's github stats" /></a> | <a href="https://github.com/mi6oo6im/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi6oo6im&layout=compact" /></a> |
+<div>
+  <img height="160" align="left" alt="Misho's github stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mi6oo6im&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=9ed0f7&text_color=000000&border_color=0c1a25" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mi6oo6im&layout=compact&bg_color=9ed0f7&hide_border=true" />
+</div>
+
+|
 | ------------- | ------------- |
