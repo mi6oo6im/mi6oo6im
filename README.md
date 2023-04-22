@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software engineer
 - 💻 I’m currently working on my development
-- 🌱 I’m learning Python, JavaScript and Java
+- 🌱 I’m learning Python, JavaScript and Java programming languages
 - 💪 I have some experience with SQL, HTML and CSS
 - 💬 Ask me about some basic algorythms, I'd love to help
 - ⚡ Fun fact: I'm proficient in googling and problem-solving... and problem-making 🐵
