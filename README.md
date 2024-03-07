@@ -7,8 +7,10 @@ I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for
 - ⚡ Fun fact: I'm proficient in googling, arguing with ChatGPT and problem-solving / problem-making 🐵
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihail-istiliyanov-95a28049/)
 - 📜 Certificates: [SoftUni](https://mi6oo6im.github.io/mi6oo6im.gihub.io/)
-- ⏰ When I have the time I'll add some more, that's it for now... 
-
+- ⏰ When I have the time I'll add some more, that's it for now...
+- 🔭 Technological stack:
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,vscode,postgres,mysql,docker,django,flask&theme=light)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,pycharm,linux,postgres,mysql,django,flask,docker,git,github)](https://skillicons.dev)
 <!--
 **mi6oo6im/mi6oo6im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
