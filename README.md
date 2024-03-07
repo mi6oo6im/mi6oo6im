@@ -2,7 +2,7 @@
 I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for a software engineer
 - 💻 I’m currently working on my development
 - 🌱 I’m learning Python, JavaScript, Java, HTML and CSS programming languages 
-- 💪 I have some experience with PostgreSQL, Docker and GitHub
+- 💪 I have some experience with PostgreSQL, Docker and GitHub, Linux and Windows OS administration
 - 💬 Ask me about some basic algorythms, I'd love to help
 - ⚡ Fun fact: I'm proficient in googling, arguing with ChatGPT and problem-solving / problem-making 🐵
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihail-istiliyanov-95a28049/)
