@@ -9,7 +9,7 @@ I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for
 - 📜 Certificates: [SoftUni](https://mi6oo6im.github.io/mi6oo6im.gihub.io/)
 - 🔭 Tech stack:
 <!-- [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,vscode,postgres,mysql,docker,django,flask&theme=light)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,pycharm,linux,postgres,sqlite,mysql,django,flask,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,pycharm,anaconda,linux,postgres,django,flask,docker,git,github,postman)](https://skillicons.dev)
 <!--
 **mi6oo6im/mi6oo6im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
