@@ -4,7 +4,7 @@ I'm Misho and I've just decided to take a ⤴️-turn in my carrear and 🚀 for
 - 🌱 I’m learning Python, JavaScript, Java, HTML and CSS programming languages 
 - 💪 I have some experience with PostgreSQL, Docker and GitHub, Linux and Windows OS administration
 - 💬 Ask me about some basic algorythms, I'd love to help
-- 😄 Fun fact: I'm proficient in googling, arguing with ChatGPT and problem-solving / problem-making 🐵
+- 😄 Fun fact: I'm proficient in googling, arguing with LLMs and problem-solving
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mihail-istiliyanov-95a28049/)
 - 📜 Certificates: [SoftUni](https://mi6oo6im.github.io/mi6oo6im.gihub.io/)
 - ⚡ SoftUniada 2024 project: [T-Convert](https://github.com/mi6oo6im/flask_temperature_convertor_app_for_softuniada_2024) 
